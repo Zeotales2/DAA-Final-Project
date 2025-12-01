@@ -1,2 +1,7 @@
 # DAA-Final-Project
-This project implements a Python program that sorts delivery points efficiently using Merge Sort and searches for a specific delivery point using Binary Search. It also evaluates the performance of the sorting algorithm for different input sizes. This solution helps optimize delivery routes by organizing and accessing delivery points quickly.
+This Python project simulates a delivery company's route optimization. It sorts delivery points and searches for specific points efficiently. The project uses:
+
+- **Merge Sort** for sorting delivery points
+- **Binary Search** for fast searching
+
+It also measures performance for different input sizes to show how well the algorithm scales.
